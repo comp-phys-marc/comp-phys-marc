@@ -25,10 +25,10 @@ I also enjoy writing hard sci-fi. In my spare time, I love hiking, camping and s
 
 - 🔭 I’m currently working on ...
 
-  Quantum programming languages, like Q#, OpenQASM, QMASM and BlackBird! I am maintaining a web-first compile toolchain for these langauges here and on [npm](https://www.npmjs.com/~marcusedwards). I am also implementing an open source OpenQASM 3.0 interpreter @XanaduAI.
+  Quantum programming languages, like [Q#](https://github.com/comp-phys-marc/q-sharp-ts), [OpenQASM](https://github.com/comp-phys-marc/qasm-ts), [QMASM](https://github.com/comp-phys-marc/qmasm-ts) and [BlackBird](https://github.com/comp-phys-marc/blackbird-ts)! I am maintaining a [web-first compile toolchain](https://www.researchgate.net/publication/391803478_A_Web_Based_Compile_Toolchain_for_Quantum_Programming_Languages) encapsulated [here](https://github.com/comp-phys-marc/distributed-emulator) for these langauges here and on [npm](https://www.npmjs.com/~marcusedwards). I am also implementing an open source OpenQASM 3.0 interpreter [@XanaduAI](https://github.com/comp-phys-marc/pennylane) and other quantum compilation strategies, like [this one](https://github.com/comp-phys-marc/compiling-shor) to Clifford+T, [this one](https://github.com/comp-phys-marc/quantum_channel_characterization) using deep learning or [this one](https://github.com/comp-phys-marc/circuit-parsers) using quantum circuit image recognition.
 
-  Quantum computing hardware, like my PCB carrier for quantum processors and more.
+  Quantum computing hardware, like my [PCB carrier](https://github.com/comp-phys-marc/carrier_PCB) for quantum processors and more.
 
 - :bar_chart: GitHub stats: 
 
-![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=comp-phys-marc&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark)
+![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=comp-phys-marc&show=reviews,prs_merged&theme=dark)
