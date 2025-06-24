@@ -35,6 +35,6 @@ I also enjoy writing hard sci-fi. In my spare time, I love hiking, camping and s
 
 ![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=comp-phys-marc&show=reviews,prs_merged&theme=dark)
 
-- :dollar: donate ...
+- :dollar: Donate ...
 
   If you use or benefit from my any of my ongoing unremunerated open source work, consider donating me a coffee on [Ko-Fi](https://ko-fi.com/marcusedwards).
