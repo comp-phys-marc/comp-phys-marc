@@ -31,6 +31,10 @@ I also enjoy writing hard sci-fi. In my spare time, I love hiking, camping and s
 
   Quantum computing hardware, like my [PCB carrier](https://github.com/comp-phys-marc/carrier_PCB) for quantum processors and more.
 
-- :bar_chart: GitHub stats: 
+- :bar_chart: GitHub stats ... 
 
 ![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=comp-phys-marc&show=reviews,prs_merged&theme=dark)
+
+- :dollar: donate ...
+
+  If you use or benefit from my any of my ongoing unremunerated open source work, consider donating me a coffee on [Ko-Fi](https://ko-fi.com/marcusedwards).
