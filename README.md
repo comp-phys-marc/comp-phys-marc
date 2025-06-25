@@ -28,7 +28,7 @@ I also enjoy writing hard sci-fi. In my spare time, I love hiking, camping and s
 
   **Quantum compilation strategies**, like [compiling Shor's algorithm](https://github.com/comp-phys-marc/compiling-shor) to Clifford+T, [this project](https://github.com/comp-phys-marc/quantum_channel_characterization) using deep learning, [this experiment](https://github.com/comp-phys-marc/circuit-parsers) using quantum circuit image recognition, this [compiler pass](https://github.com/PennyLaneAI/pennylane/pull/7748) or a [strategy](https://uwspace.uwaterloo.ca/items/217087f7-8443-4ebd-8299-bba947a552c0) for lowering WebAssembly to QUBOs for D-Wave.
 
-**Quantum Simulators and Emulators**, like this [Python based simulator](https://github.com/comp-phys-marc/qeelib) with a linear-algebra free implementation on [this branch](https://github.com/comp-phys-marc/qeelib) and usual LA approach [here](https://github.com/comp-phys-marc/qeelib/tree/vectorize), this [Rust based simulator](https://github.com/comp-phys-marc/qeelibrs) or this [hardware emulator](https://arxiv.org/abs/2302.00821).
+  **Quantum Simulators and Emulators**, like this [Python based simulator](https://github.com/comp-phys-marc/qeelib) with a linear-algebra free implementation on [this branch](https://github.com/comp-phys-marc/qeelib) and usual LA approach [here](https://github.com/comp-phys-marc/qeelib/tree/vectorize), this [Rust based simulator](https://github.com/comp-phys-marc/qeelibrs) or this [hardware emulator](https://arxiv.org/abs/2302.00821).
 
   **Low level control software** for operating quantum devices, like this [framework](https://github.com/Quantum-Science-and-Technology-Lab/labber-wrapper) built on KeySight's stack.
 
