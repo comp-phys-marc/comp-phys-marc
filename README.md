@@ -31,6 +31,10 @@ I also enjoy writing hard sci-fi. In my spare time, I love hiking, camping and s
 
   Quantum computing hardware, like my [PCB carrier](https://github.com/comp-phys-marc/carrier_PCB) for quantum processors and more.
 
+- 👯 I’m looking to collaborate on ...
+
+  I am always looking to collaborate on quantum computing projects, and especially open source! A success story is my recent collaboration with [@seankim658](https://github.com/seankim658) on updating [QASM-TS](https://github.com/comp-phys-marc/qasm-ts) to a new vresion supporting the full OpenQASM 3.0 spec. It is now in the hands of hundreds of users.
+
 - :bar_chart: GitHub stats ... 
 
 ![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=comp-phys-marc&show=reviews,prs_merged&theme=dark)
