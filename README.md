@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=comp-phys-marc&style=for-the-badge&color=blueviolet)
-
 <!--
 **comp-phys-marc/comp-phys-marc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
