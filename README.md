@@ -36,7 +36,9 @@ I also enjoy writing hard sci-fi. In my spare time, I love hiking, camping and s
 
 - 👯 I’m looking to collaborate on ...
 
-  Quantum computing projects, and especially open source! A success story is my recent collaboration with [@seankim658](https://github.com/seankim658) on updating [QASM-TS](https://github.com/comp-phys-marc/qasm-ts) to a new vresion supporting the full OpenQASM 3.0 spec. It is now in the hands of hundreds of users.
+  **Quantum computing projects**, and especially open source! A success story is my recent collaboration with [@seankim658](https://github.com/seankim658) on updating [QASM-TS](https://github.com/comp-phys-marc/qasm-ts) to a new vresion supporting the full OpenQASM 3.0 spec. It is now in the hands of hundreds of users.
+
+  **Machine learning projects**, like [this project](https://patents.google.com/patent/US20210303973A1/en) where we designed convolutional neural networks that generated web UIs before it was cool (before Chat GPT existed).
 
 - :bar_chart: GitHub stats ... 
 
