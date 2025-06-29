@@ -42,8 +42,9 @@ I also enjoy writing hard sci-fi. In my spare time, I love hiking, camping and s
 
 - 🤔 I’m looking for help with ...
 
- **Tests** for the Q\# parser in [this great first issue](https://github.com/comp-phys-marc/q-sharp-ts/issues/1).
- **Implementation** of more compiler features in [this more advanced issue](https://github.com/comp-phys-marc/q-sharp-ts/issues/2).
+  **Tests** for the Q\# parser in [this great first issue](https://github.com/comp-phys-marc/q-sharp-ts/issues/1).
+
+  **Implementation** of more compiler features in [this more advanced issue](https://github.com/comp-phys-marc/q-sharp-ts/issues/2).
 
 - :bar_chart: GitHub stats ... 
 
