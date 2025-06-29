@@ -40,6 +40,11 @@ I also enjoy writing hard sci-fi. In my spare time, I love hiking, camping and s
 
   **Machine learning projects**, like [this project](https://patents.google.com/patent/US20210303973A1/en) where we designed convolutional neural networks that generated web UIs before it was cool (before Chat GPT existed).
 
+- 🤔 I’m looking for help with ...
+
+ **Tests** for the Q\# parser in [this great first issue](https://github.com/comp-phys-marc/q-sharp-ts/issues/1).
+ **Implementation** of more compiler features in [this more advanced issue](https://github.com/comp-phys-marc/q-sharp-ts/issues/2).
+
 - :bar_chart: GitHub stats ... 
 
 ![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=comp-phys-marc&show=reviews,prs_merged&theme=dark)
