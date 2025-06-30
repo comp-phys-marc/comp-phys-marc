@@ -24,27 +24,37 @@ I also enjoy writing hard sci-fi. In my spare time, I love hiking, camping and s
 
 - 🔭 I’m currently working on ...
 
-  **Quantum programming languages**, like my implementations of [Q#](https://github.com/comp-phys-marc/q-sharp-ts) ![NPM Downloads](https://img.shields.io/npm/dy/q-sharp-ts), [OpenQASM](https://github.com/comp-phys-marc/qasm-ts) ![NPM Downloads](https://img.shields.io/npm/dy/qasm-ts), [QMASM](https://github.com/comp-phys-marc/qmasm-ts) ![NPM Downloads](https://img.shields.io/npm/dy/qmasm-ts) and [BlackBird](https://github.com/comp-phys-marc/blackbird-ts) ![NPM Downloads](https://img.shields.io/npm/dy/blackbird-ts)! I am maintaining a [web-first compile toolchain](https://www.researchgate.net/publication/391803478_A_Web_Based_Compile_Toolchain_for_Quantum_Programming_Languages) (that runs [here](https://github.com/comp-phys-marc/distributed-emulator)) for these langauges on GitHub and on [npm](https://www.npmjs.com/~marcusedwards). I am also implementing an open source OpenQASM 3.0 [interpreter](https://github.com/PennyLaneAI/pennylane/blob/master/pennylane/io/qasm_interpreter.py) [@XanaduAI](https://github.com/XanaduAI) in [PennyLane](https://github.com/PennyLaneAI/pennylane) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/PennyLaneAI/pennylane/total).
+  - **Quantum programming languages**, like my implementations of:
+  
+    - [OpenQASM](https://github.com/comp-phys-marc/qasm-ts) ![NPM Downloads](https://img.shields.io/npm/dy/qasm-ts)
+  
+    - [QMASM](https://github.com/comp-phys-marc/qmasm-ts) ![NPM Downloads](https://img.shields.io/npm/dy/qmasm-ts)
+  
+    - [BlackBird](https://github.com/comp-phys-marc/blackbird-ts) ![NPM Downloads](https://img.shields.io/npm/dy/blackbird-ts)
 
-  **Quantum compilation strategies**, like [compiling Shor's algorithm](https://github.com/comp-phys-marc/compiling-shor) to Clifford+T, [this project](https://github.com/comp-phys-marc/quantum_channel_characterization) using deep learning, [this experiment](https://github.com/comp-phys-marc/circuit-parsers) using quantum circuit image recognition, [this](https://github.com/PennyLaneAI/pennylane/pull/7748) compiler pass, [this](https://github.com/PennyLaneAI/pennylane/pull/7754) compiler pass or a [strategy](https://uwspace.uwaterloo.ca/items/217087f7-8443-4ebd-8299-bba947a552c0) for lowering WebAssembly to QUBOs for D-Wave.
+    - [Q#](https://github.com/comp-phys-marc/q-sharp-ts) ![NPM Downloads](https://img.shields.io/npm/dy/q-sharp-ts)
 
-  **Quantum simulators and emulators**, like this [Python based simulator](https://github.com/comp-phys-marc/qeelib) with a linear-algebra free implementation on [this branch](https://github.com/comp-phys-marc/qeelib) and usual LA approach [here](https://github.com/comp-phys-marc/qeelib/tree/vectorize), this [Rust based simulator](https://github.com/comp-phys-marc/qeelibrs) or this [hardware emulator](https://arxiv.org/abs/2302.00821).
+    I am maintaining a [web-first compile toolchain](https://www.researchgate.net/publication/391803478_A_Web_Based_Compile_Toolchain_for_Quantum_Programming_Languages) (that runs [here](https://github.com/comp-phys-marc/distributed-emulator)) for these langauges on GitHub and on [npm](https://www.npmjs.com/~marcusedwards). I am also implementing an open source OpenQASM 3.0 [interpreter](https://github.com/PennyLaneAI/pennylane/blob/master/pennylane/io/qasm_interpreter.py) [@XanaduAI](https://github.com/XanaduAI) in [PennyLane](https://github.com/PennyLaneAI/pennylane) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/PennyLaneAI/pennylane/total).
 
-  **Low level control software** for operating quantum devices, like this [framework](https://github.com/Quantum-Science-and-Technology-Lab/labber-wrapper) built on KeySight's stack.
+  - **Quantum compilation strategies**, like [compiling Shor's algorithm](https://github.com/comp-phys-marc/compiling-shor) to Clifford+T, [this project](https://github.com/comp-phys-marc/quantum_channel_characterization) using deep learning, [this experiment](https://github.com/comp-phys-marc/circuit-parsers) using quantum circuit image recognition, [this](https://github.com/PennyLaneAI/pennylane/pull/7748) compiler pass, [this](https://github.com/PennyLaneAI/pennylane/pull/7754) compiler pass or a [strategy](https://uwspace.uwaterloo.ca/items/217087f7-8443-4ebd-8299-bba947a552c0) for lowering WebAssembly to QUBOs for D-Wave.
 
-  **Quantum computing hardware**, like my [PCB carrier](https://github.com/comp-phys-marc/carrier_PCB) for quantum processors and more.
+  - **Quantum simulators and emulators**, like this [Python based simulator](https://github.com/comp-phys-marc/qeelib) with a linear-algebra free implementation on [this branch](https://github.com/comp-phys-marc/qeelib) and usual LA approach [here](https://github.com/comp-phys-marc/qeelib/tree/vectorize), this [Rust based simulator](https://github.com/comp-phys-marc/qeelibrs) or this [hardware emulator](https://arxiv.org/abs/2302.00821).
+
+  - **Low level control software** for operating quantum devices, like this [framework](https://github.com/Quantum-Science-and-Technology-Lab/labber-wrapper) built on KeySight's stack.
+
+  - **Quantum computing hardware**, like my [PCB carrier](https://github.com/comp-phys-marc/carrier_PCB) for quantum processors and more.
 
 - 👯 I’m looking to collaborate on ...
 
-  **Quantum computing projects**, and especially open source! A success story is my recent collaboration with [@seankim658](https://github.com/seankim658) on updating [QASM-TS](https://github.com/comp-phys-marc/qasm-ts) to a new vresion supporting the full OpenQASM 3.0 spec. It is now in the hands of hundreds of users.
+  - **Quantum computing projects**, and especially open source! A success story is my recent collaboration with [@seankim658](https://github.com/seankim658) on updating [QASM-TS](https://github.com/comp-phys-marc/qasm-ts) to a new vresion supporting the full OpenQASM 3.0 spec. It is now in the hands of hundreds of users.
 
-  **Machine learning projects**, like [this project](https://patents.google.com/patent/US20210303973A1/en) where we designed convolutional neural networks that generated web UIs before it was cool (before Chat GPT existed).
+  - **Machine learning projects**, like [this project](https://patents.google.com/patent/US20210303973A1/en) where we designed convolutional neural networks that generated web UIs before it was cool (before Chat GPT existed).
 
 - 🤔 I’m looking for help with ...
 
-  **Tests** for the Q\# parser in [this great first issue](https://github.com/comp-phys-marc/q-sharp-ts/issues/1).
+  - **Tests** for the Q\# parser in [this great first issue](https://github.com/comp-phys-marc/q-sharp-ts/issues/1).
 
-  **Implementation** of more compiler features in [this more advanced issue](https://github.com/comp-phys-marc/q-sharp-ts/issues/2).
+  - **Implementation** of more compiler features in [this more advanced issue](https://github.com/comp-phys-marc/q-sharp-ts/issues/2).
 
 - :bar_chart: GitHub stats ... 
 
