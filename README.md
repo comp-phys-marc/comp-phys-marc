@@ -25,10 +25,10 @@ I also enjoy writing hard sci-fi. In my spare time, I love hiking, camping and s
 - 🔭 I’m currently working on ...
 
   - **Quantum programming languages**, like my implementations of:
+
+    - [Q#](https://github.com/comp-phys-marc/q-sharp-ts) ![NPM Downloads](https://img.shields.io/npm/dy/q-sharp-ts)
   
     - [OpenQASM](https://github.com/comp-phys-marc/qasm-ts) ![NPM Downloads](https://img.shields.io/npm/dy/qasm-ts)
-   
-    - [Q#](https://github.com/comp-phys-marc/q-sharp-ts) ![NPM Downloads](https://img.shields.io/npm/dy/q-sharp-ts)
   
     - [QMASM](https://github.com/comp-phys-marc/qmasm-ts) ![NPM Downloads](https://img.shields.io/npm/dy/qmasm-ts)
   
