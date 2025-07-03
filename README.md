@@ -27,12 +27,12 @@ I also enjoy writing hard sci-fi. In my spare time, I love hiking, camping and s
   - **Quantum programming languages**, like my implementations of:
 
     - [OpenQASM](https://github.com/comp-phys-marc/qasm-ts) (parser in TS: ![NPM Downloads](https://img.shields.io/npm/dy/qasm-ts)) (interpreter in Python: ![PyPI - Downloads](https://img.shields.io/pypi/dw/pennylane))
+   
+    - [BlackBird](https://github.com/comp-phys-marc/blackbird-ts) (parser in TS: ![NPM Downloads](https://img.shields.io/npm/dy/blackbird-ts)) (visualizer in Python: ![PyPI - Downloads](https://img.shields.io/pypi/dw/strawberryfields))
 
     - [Q#](https://github.com/comp-phys-marc/q-sharp-ts) ![NPM Downloads](https://img.shields.io/npm/dy/q-sharp-ts)
   
     - [QMASM](https://github.com/comp-phys-marc/qmasm-ts) ![NPM Downloads](https://img.shields.io/npm/dy/qmasm-ts)
-  
-    - [BlackBird](https://github.com/comp-phys-marc/blackbird-ts) (parser in TS: ![NPM Downloads](https://img.shields.io/npm/dy/blackbird-ts)) (visualizer in Python: ![PyPI - Downloads](https://img.shields.io/pypi/dw/strawberryfields))
 
     I am maintaining a [web-first compile toolchain](https://www.researchgate.net/publication/391803478_A_Web_Based_Compile_Toolchain_for_Quantum_Programming_Languages) (that runs [here](https://github.com/comp-phys-marc/distributed-emulator)) for these langauges on GitHub and on [npm](https://www.npmjs.com/~marcusedwards). I am also implementing an open source OpenQASM 3.0 [interpreter](https://github.com/PennyLaneAI/pennylane/blob/master/pennylane/io/qasm_interpreter.py) [@XanaduAI](https://github.com/XanaduAI) in [PennyLane](https://github.com/PennyLaneAI/pennylane). <!-- ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/PennyLaneAI/pennylane/total). -->
 
