@@ -26,9 +26,9 @@ I also enjoy writing hard sci-fi. In my spare time, I love hiking, camping and s
 
   - **Quantum programming languages**, like my implementations of:
 
-    - [OpenQASM](https://github.com/comp-phys-marc/qasm-ts) ([parser](https://github.com/comp-phys-marc/qasm-ts) in TS: ![NPM Downloads](https://img.shields.io/npm/dy/qasm-ts)) ([interpreter](https://github.com/PennyLaneAI/pennylane/blob/master/pennylane/io/qasm_interpreter.py) in Python: ![PyPI - Downloads](https://img.shields.io/pypi/dw/pennylane))
+    - [OpenQASM](https://github.com/comp-phys-marc/qasm-ts) ([parser](https://github.com/comp-phys-marc/qasm-ts) in TypeScript: ![NPM Downloads](https://img.shields.io/npm/dy/qasm-ts)) ([interpreter](https://github.com/PennyLaneAI/pennylane/blob/master/pennylane/io/qasm_interpreter.py) in Python: ![PyPI - Downloads](https://img.shields.io/pypi/dw/pennylane))
    
-    - [BlackBird](https://github.com/comp-phys-marc/blackbird-ts) ([parser](https://github.com/comp-phys-marc/blackbird-ts) in TS: ![NPM Downloads](https://img.shields.io/npm/dy/blackbird-ts)) ([visualizer](https://github.com/XanaduAI/strawberryfields/blob/master/strawberryfields/circuitdrawer.py) in Python: ![PyPI - Downloads](https://img.shields.io/pypi/dw/strawberryfields))
+    - [BlackBird](https://github.com/comp-phys-marc/blackbird-ts) ([parser](https://github.com/comp-phys-marc/blackbird-ts) in TypeScript: ![NPM Downloads](https://img.shields.io/npm/dy/blackbird-ts)) ([visualizer](https://github.com/XanaduAI/strawberryfields/blob/master/strawberryfields/circuitdrawer.py) in Python: ![PyPI - Downloads](https://img.shields.io/pypi/dw/strawberryfields))
 
     - [Q#](https://github.com/comp-phys-marc/q-sharp-ts) ![NPM Downloads](https://img.shields.io/npm/dy/q-sharp-ts)
   
