@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-007acc?style=for-the-badge&logo=typescript&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/php-474a8a?style=for-the-badge&logo=php&logoColor=ffffff)
+![SASS](https://img.shields.io/badge/sass-cd6799?style=for-the-badge&logo=sass&logoColor=ffffff)
 ![Rust](https://img.shields.io/badge/rust-ce422b?style=for-the-badge&logo=rust&logoColor=000000)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![OpenQASM](https://img.shields.io/badge/openqasm-blue?style=for-the-badge)
