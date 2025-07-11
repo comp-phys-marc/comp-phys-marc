@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 ![SASS](https://img.shields.io/badge/sass-cd6799?style=for-the-badge&logo=sass&logoColor=ffffff)
 ![Rust](https://img.shields.io/badge/rust-ce422b?style=for-the-badge&logo=rust&logoColor=000000)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+
 ![OpenQASM](https://img.shields.io/badge/openqasm-blue?style=for-the-badge)
 ![BlackBird](https://img.shields.io/badge/blackbird-black?style=for-the-badge)
 ![QMASM](https://img.shields.io/badge/qmasm-555555?style=for-the-badge)
