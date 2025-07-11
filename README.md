@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-007acc?style=for-the-badge&logo=typescript&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/rust-ce422b?style=for-the-badge&logo=rust&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-007acc?style=for-the-badge&logo=typescript&logoColor=ffffff)
+![Rust](https://img.shields.io/badge/rust-ce422b?style=for-the-badge&logo=rust&logoColor=000000)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
 I completed a Masters in Quantum Information Science through the [Institute for Quantum Computing](https://uwaterloo.ca/institute-for-quantum-computing/) at the University of Waterloo in 2020. After a brief stint as a quantum software engineer at [Photonic Inc](https://photonic.com/), I am now pursuing a PhD in Electrical and Computer Engineering at the University of British Columbia in the [Quantum Science and Technology Lab](https://sites.google.com/view/ubcqtl/home) and am in a summer residency at [Xanadu Quantum Technologies](https://www.xanadu.ai/).
