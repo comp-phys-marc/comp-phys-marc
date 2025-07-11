@@ -74,7 +74,7 @@ I also enjoy writing hard sci-fi. In my spare time, I love hiking, camping and s
 
 ![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=comp-phys-marc&show=reviews,prs_merged&theme=dark)
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=comp-phys-marc" /> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=comp-phys-marc" />
 
 - :dollar: Donate ...
 
