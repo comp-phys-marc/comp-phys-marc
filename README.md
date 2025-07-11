@@ -36,13 +36,27 @@ I also enjoy writing hard sci-fi. In my spare time, I love hiking, camping and s
 
     I am maintaining a [web-first compile toolchain](https://www.researchgate.net/publication/391803478_A_Web_Based_Compile_Toolchain_for_Quantum_Programming_Languages) (that runs [here](https://github.com/comp-phys-marc/distributed-emulator)) for these langauges on GitHub and on [npm](https://www.npmjs.com/~marcusedwards). I am also implementing an open source OpenQASM 3.0 [interpreter](https://github.com/PennyLaneAI/pennylane/blob/master/pennylane/io/qasm_interpreter.py) [@XanaduAI](https://github.com/XanaduAI) in [PennyLane](https://github.com/PennyLaneAI/pennylane). <!-- ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/PennyLaneAI/pennylane/total). -->
 
-  - **Quantum compilation strategies**, like [compiling Shor's algorithm](https://github.com/comp-phys-marc/compiling-shor) to Clifford+T, [this project](https://github.com/comp-phys-marc/quantum_channel_characterization) using deep learning, [this experiment](https://github.com/comp-phys-marc/circuit-parsers) using quantum circuit image recognition, [this](https://github.com/PennyLaneAI/pennylane/pull/7748) compiler pass, [this](https://github.com/PennyLaneAI/pennylane/pull/7754) compiler pass or a [strategy](https://uwspace.uwaterloo.ca/items/217087f7-8443-4ebd-8299-bba947a552c0) for lowering WebAssembly to QUBOs for D-Wave.
+  - **Quantum compilation strategies**, like:
+    -  [compiling Shor's algorithm](https://github.com/comp-phys-marc/compiling-shor) to Clifford+T
+    -  [this project](https://github.com/comp-phys-marc/quantum_channel_characterization) using deep learning
+    -  [this experiment](https://github.com/comp-phys-marc/circuit-parsers) using quantum circuit image recognition
+    -  [this](https://github.com/PennyLaneAI/pennylane/pull/7748) compiler pass
+    -  [this](https://github.com/PennyLaneAI/pennylane/pull/7754) compiler pass
+    -  a [strategy](https://uwspace.uwaterloo.ca/items/217087f7-8443-4ebd-8299-bba947a552c0) for lowering WebAssembly to QUBOs for D-Wave.
 
-  - **Quantum simulators and emulators**, like this [Python based simulator](https://github.com/comp-phys-marc/qeelib) with a linear-algebra free implementation on [this branch](https://github.com/comp-phys-marc/qeelib) and usual LA approach [here](https://github.com/comp-phys-marc/qeelib/tree/vectorize), this [Rust based simulator](https://github.com/comp-phys-marc/qeelibrs) or this [hardware emulator](https://arxiv.org/abs/2302.00821).
+  - **Quantum simulators and emulators**, like:
+    - this [Python based simulator](https://github.com/comp-phys-marc/qeelib) with
+      - a linear-algebra free implementation on [this branch](https://github.com/comp-phys-marc/qeelib)
+      - usual LA approach [here](https://github.com/comp-phys-marc/qeelib/tree/vectorize)
+    - this [Rust based simulator](https://github.com/comp-phys-marc/qeelibrs)
+    - this [hardware emulator](https://arxiv.org/abs/2302.00821).
 
-  - **Low level control software** for operating quantum devices, like this [framework](https://github.com/Quantum-Science-and-Technology-Lab/labber-wrapper) built on KeySight's stack.
+  - **Low level control software** for operating quantum devices, like:
+    - this [framework](https://github.com/Quantum-Science-and-Technology-Lab/labber-wrapper) built on KeySight's stack
 
-  - **Quantum computing hardware**, like my [PCB carrier](https://github.com/comp-phys-marc/carrier_PCB) for quantum processors and more.
+  - **Quantum computing hardware**, like:
+    - my [PCB carrier](https://github.com/comp-phys-marc/carrier_PCB) for quantum processors
+    - and more!
 
 - 👯 I’m looking to collaborate on ...
 
