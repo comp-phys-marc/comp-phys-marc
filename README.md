@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="1993" height="726" alt="image1-23-2" src="https://github.com/user-attachments/assets/df1342b4-9abc-4aa1-acce-872ca3ac25dd" />
+<!-- <img width="1993" height="726" alt="image1-23-2" src="https://github.com/user-attachments/assets/df1342b4-9abc-4aa1-acce-872ca3ac25dd" /> -->
+<img width="1964" height="670" alt="image1-81-4" src="https://github.com/user-attachments/assets/7c498065-4198-47b8-a80a-b9caf65dbd69" />
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
