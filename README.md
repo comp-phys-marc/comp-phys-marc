@@ -26,6 +26,12 @@ Here are some ideas to get you started:
 ![Rust](https://img.shields.io/badge/rust-ce422b?style=for-the-badge&logo=rust&logoColor=000000)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
+![React](https://img.shields.io/badge/react-555555?style=for-the-badge&logo=react&logoColor=61DBFB)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Laravel](https://img.shields.io/badge/laravel-6c6c6c?style=for-the-badge&logo=laravel&logoColor=f05340)
+![QisKit](https://img.shields.io/badge/qiskit-black?style=for-the-badge&logo=qiskit&logoColor=white)
+![PennyLane](https://img.shields.io/badge/pennylane-05B2FF?style=for-the-badge)
+
 ![OpenQASM](https://img.shields.io/badge/openqasm-blue?style=for-the-badge)
 ![BlackBird](https://img.shields.io/badge/blackbird-black?style=for-the-badge)
 ![QMASM](https://img.shields.io/badge/qmasm-555555?style=for-the-badge)
