@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 
 ![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=ffffff)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=ffffff)
+![Rabbit](https://img.shields.io/badge/-rabbitmq-%23FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
 I completed a Masters in Quantum Information Science through the [Institute for Quantum Computing](https://uwaterloo.ca/institute-for-quantum-computing/) at the University of Waterloo in 2020. After a brief stint as a quantum software engineer at [Photonic Inc](https://photonic.com/), I am now pursuing a PhD in Electrical and Computer Engineering at the University of British Columbia in the [Quantum Science and Technology Lab](https://sites.google.com/view/ubcqtl/home) and am in a summer residency at [Xanadu Quantum Technologies](https://www.xanadu.ai/).
 
