@@ -66,6 +66,7 @@ I also enjoy writing hard sci-fi. In my spare time, I love hiking, camping and s
     -  [compiling Shor's algorithm](https://github.com/comp-phys-marc/compiling-shor) to Clifford+T
     -  [this project](https://github.com/comp-phys-marc/quantum_channel_characterization) using deep learning
     -  [this experiment](https://github.com/comp-phys-marc/circuit-parsers) using quantum circuit image recognition
+    -  [these](https://github.com/PennyLaneAI/pennylane/pull/7779) quantum circuit decompositions
     -  [this](https://github.com/PennyLaneAI/pennylane/pull/7748) compiler pass
     -  [this](https://github.com/PennyLaneAI/pennylane/pull/7754) compiler pass
     -  a [strategy](https://uwspace.uwaterloo.ca/items/217087f7-8443-4ebd-8299-bba947a552c0) for lowering WebAssembly to QUBOs for D-Wave.
