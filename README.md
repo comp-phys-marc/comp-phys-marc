@@ -82,7 +82,7 @@ I also enjoy writing hard sci-fi. In my spare time, I love hiking, camping and s
 
   - **Quantum computing hardware**, like:
     - my [PCB carrier](https://github.com/comp-phys-marc/carrier_PCB) for quantum processors
-    - and more!
+    - actual quantum processors
 
 - 👯 I’m looking to collaborate on ...
 
