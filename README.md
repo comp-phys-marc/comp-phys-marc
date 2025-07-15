@@ -46,7 +46,6 @@ I completed a Masters in Quantum Information Science through the [Institute for 
 This has meant switching from the computer and information science subfield, which saw my first thesis, paper and three patents between 2018 and 2020, to the new subfield of quantum devices in which I have also published recently in 2024. Read on my [Google Scholar](https://scholar.google.ca/citations?user=XkHhU_0AAAAJ&hl=en).
 
 I have founded two profitable tech companies in the past, [rQadium](https://marcusedwards.me/rqadium/) and Leadme Inc., building our products myself as a full stack software and hardware engineer.
-I also enjoy writing hard sci-fi. In my spare time, I love hiking, camping and spending time with my wife and dog.
 
 - :bar_chart: GitHub stats ... 
 
@@ -91,6 +90,7 @@ I also enjoy writing hard sci-fi. In my spare time, I love hiking, camping and s
     - my [PCB carrier](https://github.com/comp-phys-marc/carrier_PCB) for quantum processors
     - actual quantum processors
 
+<!--
 - 👯 I’m looking to collaborate on ...
 
   - **Quantum computing projects**, and especially open source! A success story is my recent collaboration with [@seankim658](https://github.com/seankim658) on updating [QASM-TS](https://github.com/comp-phys-marc/qasm-ts) to a new vresion supporting the full OpenQASM 3.0 spec. It is now in the hands of hundreds of users.
@@ -106,3 +106,4 @@ I also enjoy writing hard sci-fi. In my spare time, I love hiking, camping and s
 - :dollar: Donate ...
 
   If you use or benefit from my any of my ongoing unremunerated open source work, consider donating me a coffee on [Ko-Fi](https://ko-fi.com/marcusedwards).
+-->
