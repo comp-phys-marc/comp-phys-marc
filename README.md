@@ -48,6 +48,12 @@ This has meant switching from the computer and information science subfield, whi
 I have founded two profitable tech companies in the past, [rQadium](https://marcusedwards.me/rqadium/) and Leadme Inc., building our products myself as a full stack software and hardware engineer.
 I also enjoy writing hard sci-fi. In my spare time, I love hiking, camping and spending time with my wife and dog.
 
+- :bar_chart: GitHub stats ... 
+
+![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=comp-phys-marc&show=reviews,prs_merged&theme=dark)
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=comp-phys-marc" /> -->
+
 - 🔭 I’m currently working on ...
 
   - **Quantum programming languages**, like my implementations of:
@@ -96,12 +102,6 @@ I also enjoy writing hard sci-fi. In my spare time, I love hiking, camping and s
   - **Tests** for the Q\# parser in [this great first issue](https://github.com/comp-phys-marc/q-sharp-ts/issues/1).
 
   - **Implementation** of more compiler features in [this more advanced issue](https://github.com/comp-phys-marc/q-sharp-ts/issues/2).
-
-- :bar_chart: GitHub stats ... 
-
-![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=comp-phys-marc&show=reviews,prs_merged&theme=dark)
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=comp-phys-marc" /> -->
 
 - :dollar: Donate ...
 
