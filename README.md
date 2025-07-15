@@ -51,6 +51,9 @@ I have founded two profitable tech companies in the past, [rQadium](https://marc
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=comp-phys-marc" /> -->
 
+<!--
+    I am maintaining a [web-first compile toolchain](https://www.researchgate.net/publication/391803478_A_Web_Based_Compile_Toolchain_for_Quantum_Programming_Languages) (that runs [here](https://github.com/comp-phys-marc/distributed-emulator)) for these langauges on GitHub and on [npm](https://www.npmjs.com/~marcusedwards). I am also implementing an open source OpenQASM 3.0 [interpreter](https://github.com/PennyLaneAI/pennylane/blob/master/pennylane/io/qasm_interpreter.py) [@XanaduAI](https://github.com/XanaduAI) in [PennyLane](https://github.com/PennyLaneAI/pennylane). <!-- ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/PennyLaneAI/pennylane/total). -->
+
 - 🔭 I’m currently working on ...
 
   - **Quantum programming languages**, like my implementations of:
@@ -62,9 +65,6 @@ I have founded two profitable tech companies in the past, [rQadium](https://marc
     - [Q#](https://learn.microsoft.com/en-us/azure/quantum/qsharp-overview): ([parser](https://github.com/comp-phys-marc/q-sharp-ts) in TypeScript ![NPM Downloads](https://img.shields.io/npm/dy/q-sharp-ts))
   
     - [QMASM](https://github.com/lanl/qmasm): ([parser](https://github.com/comp-phys-marc/qmasm-ts) in TypeScript ![NPM Downloads](https://img.shields.io/npm/dy/qmasm-ts))
-
-<!--
-    I am maintaining a [web-first compile toolchain](https://www.researchgate.net/publication/391803478_A_Web_Based_Compile_Toolchain_for_Quantum_Programming_Languages) (that runs [here](https://github.com/comp-phys-marc/distributed-emulator)) for these langauges on GitHub and on [npm](https://www.npmjs.com/~marcusedwards). I am also implementing an open source OpenQASM 3.0 [interpreter](https://github.com/PennyLaneAI/pennylane/blob/master/pennylane/io/qasm_interpreter.py) [@XanaduAI](https://github.com/XanaduAI) in [PennyLane](https://github.com/PennyLaneAI/pennylane). <!-- ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/PennyLaneAI/pennylane/total). -->
 
   - **Quantum compilation strategies**, like:
     -  [compiling Shor's algorithm](https://github.com/comp-phys-marc/compiling-shor) to Clifford+T
