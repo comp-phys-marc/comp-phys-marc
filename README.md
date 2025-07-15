@@ -63,6 +63,7 @@ I have founded two profitable tech companies in the past, [rQadium](https://marc
   
     - [QMASM](https://github.com/lanl/qmasm): ([parser](https://github.com/comp-phys-marc/qmasm-ts) in TypeScript ![NPM Downloads](https://img.shields.io/npm/dy/qmasm-ts))
 
+<!--
     I am maintaining a [web-first compile toolchain](https://www.researchgate.net/publication/391803478_A_Web_Based_Compile_Toolchain_for_Quantum_Programming_Languages) (that runs [here](https://github.com/comp-phys-marc/distributed-emulator)) for these langauges on GitHub and on [npm](https://www.npmjs.com/~marcusedwards). I am also implementing an open source OpenQASM 3.0 [interpreter](https://github.com/PennyLaneAI/pennylane/blob/master/pennylane/io/qasm_interpreter.py) [@XanaduAI](https://github.com/XanaduAI) in [PennyLane](https://github.com/PennyLaneAI/pennylane). <!-- ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/PennyLaneAI/pennylane/total). -->
 
   - **Quantum compilation strategies**, like:
@@ -75,9 +76,9 @@ I have founded two profitable tech companies in the past, [rQadium](https://marc
     -  a [strategy](https://uwspace.uwaterloo.ca/items/217087f7-8443-4ebd-8299-bba947a552c0) for lowering WebAssembly to QUBOs for D-Wave.
 
   - **Quantum simulators and emulators**, like:
-    - this [Python based simulator](https://github.com/comp-phys-marc/qeelib) with
-      - a linear-algebra free implementation on [this branch](https://github.com/comp-phys-marc/qeelib)
-      - usual LA approach [here](https://github.com/comp-phys-marc/qeelib/tree/vectorize)
+    - this [Python based simulator](https://github.com/comp-phys-marc/qeelib)
+      <!-- - a linear-algebra free implementation on [this branch](https://github.com/comp-phys-marc/qeelib)
+      - usual LA approach [here](https://github.com/comp-phys-marc/qeelib/tree/vectorize) -->
     - this [Rust based simulator](https://github.com/comp-phys-marc/qeelibrs)
     - this [hardware emulator](https://arxiv.org/abs/2302.00821).
 
