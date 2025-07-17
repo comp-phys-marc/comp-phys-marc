@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 
 ![QisKit](https://img.shields.io/badge/qiskit-black?style=flat&logo=qiskit&logoColor=white)
 ![PennyLane](https://img.shields.io/badge/pennylane-05B2FF?style=flat)
+![TensorFlow](https://img.shields.io/badge/tensorflow-6c6c6c?style=flat&logo=tensorflow&logoColor=FF6F00)
 ![React](https://img.shields.io/badge/react-555555?style=flat&logo=react&logoColor=61DBFB)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
 ![Laravel](https://img.shields.io/badge/laravel-6c6c6c?style=flat&logo=laravel&logoColor=f05340)
