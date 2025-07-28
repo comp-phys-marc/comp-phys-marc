@@ -77,6 +77,7 @@ I have founded two profitable tech companies in the past, [rQadium](https://marc
   -  [this project](https://github.com/comp-phys-marc/quantum_channel_characterization) using deep learning
   -  [this experiment](https://github.com/comp-phys-marc/circuit-parsers) using quantum circuit image recognition
   -  [these](https://github.com/PennyLaneAI/pennylane/pull/7779) quantum circuit decompositions
+  -  [these](https://github.com/PennyLaneAI/pennylane/pull/7908) more complex quantum circuit decompositions
   -  [this](https://github.com/PennyLaneAI/pennylane/pull/7748) compiler pass
   -  [this](https://github.com/PennyLaneAI/pennylane/pull/7756) qubit re-use compiler optimization
   -  a [strategy](https://uwspace.uwaterloo.ca/items/217087f7-8443-4ebd-8299-bba947a552c0) for lowering WebAssembly to QUBOs for D-Wave.
