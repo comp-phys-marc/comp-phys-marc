@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 ![Kubernetes](https://img.shields.io/badge/kubernetes-blue?style=flat&logo=kubernetes&logoColor=ffffff)
 ![Rabbit](https://img.shields.io/badge/-rabbitmq-%23FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
-I completed a Masters in Quantum Information Science through the [Institute for Quantum Computing](https://uwaterloo.ca/institute-for-quantum-computing/) at the University of Waterloo in 2020. After a brief stint as a quantum software engineer at [Photonic Inc](https://photonic.com/), I am now pursuing a PhD in Electrical and Computer Engineering at the University of British Columbia in the [Quantum Science and Technology Lab](https://sites.google.com/view/ubcqtl/home) and am in a summer residency at [Xanadu Quantum Technologies](https://www.xanadu.ai/).
+I completed a Masters in Quantum Information Science through the [Institute for Quantum Computing](https://uwaterloo.ca/institute-for-quantum-computing/) at the University of Waterloo in 2020. After stints as a quantum software engineer at [Photonic Inc](https://photonic.com/), and a quantum harware researcher in the [Quantum Science and Technology Lab](https://sites.google.com/view/ubcqtl/home), I am now a software develoepr at [Xanadu Quantum Technologies](https://www.xanadu.ai/).
 
-This has meant switching from the computer and information science subfield, which saw my first thesis, paper and three patents between 2018 and 2020, to the new subfield of quantum devices / architecture in which I have also published recently in 2024. Read on my [Google Scholar](https://scholar.google.ca/citations?user=XkHhU_0AAAAJ&hl=en).
+This has meant periods focussing on the computer and information science subfield, which saw my first thesis, paper and three patents between 2018 and 2020, as well as the subfield of quantum devices / architecture in which I have also published recently in 2024. Read on my [Google Scholar](https://scholar.google.ca/citations?user=XkHhU_0AAAAJ&hl=en).
 
 I have founded two profitable tech companies in the past, [rQadium](https://marcusedwards.me/rqadium/) and Leadme Inc., building our products myself as a full stack software and hardware engineer.
 
