@@ -113,7 +113,7 @@ I have founded two profitable tech companies in the past, [rQadium](https://marc
 <summary>Quantum computing projects</summary>
 <br>  
     
-  - Especially open source! A success story is my recent collaboration with [@seankim658](https://github.com/seankim658) on updating [QASM-TS](https://github.com/comp-phys-marc/qasm-ts) to a new vresion supporting the full OpenQASM 3.0 spec. It is now in the hands of hundreds of users.
+  - Especially open source! A success story is my recent collaboration with [@seankim658](https://github.com/seankim658) on updating [QASM-TS](https://github.com/comp-phys-marc/qasm-ts) to a new version supporting the full OpenQASM 3.0 spec. It is now in the hands of hundreds of users.
 </details>
 
 <details>
