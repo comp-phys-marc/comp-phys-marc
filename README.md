@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 I completed a Masters in Quantum Information Science through the [Institute for Quantum Computing](https://uwaterloo.ca/institute-for-quantum-computing/) at the University of Waterloo in 2020. After stints as a quantum software engineer at [Photonic Inc](https://photonic.com/), and a quantum hardware researcher in the [Quantum Science and Technology Lab](https://sites.google.com/view/ubcqtl/home), I am now a software developer at [Xanadu Quantum Technologies](https://www.xanadu.ai/).
 
-This has meant periods focussing on the computer and information science subfield, which saw my first thesis, paper and three patents between 2018 and 2020, as well as the subfield of quantum devices / architecture in which I have also published recently in 2024. Read on my [Google Scholar](https://scholar.google.ca/citations?user=XkHhU_0AAAAJ&hl=en).
+This has meant periods focussing on the computer and information science subfield, which saw my first thesis, paper and three patents between 2018 and 2020, as well as the subfield of quantum devices in which I have also published recently in 2024 and 2025. Read on my [Google Scholar](https://scholar.google.ca/citations?user=XkHhU_0AAAAJ&hl=en).
 
 I have founded two profitable tech companies in the past, [rQadium](https://marcusedwards.me/rqadium/) and Leadme Inc., building our products myself as a full stack software and hardware engineer.
 
