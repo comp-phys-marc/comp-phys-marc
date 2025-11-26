@@ -83,6 +83,14 @@ I have founded two profitable tech companies in the past, [rQadium](https://marc
 </details>
 
 <details>
+<summary>Quantum algorithms</summary>
+<br>
+
+  - [QRAM](https://github.com/PennyLaneAI/pennylane/pull/8670)
+  - [Quantum Automatic Differentiation](https://github.com/PennyLaneAI/pennylane/pull/8640)
+</details>
+
+<details>
 <summary>Quantum simulators and emulators</summary>
 <br>
     
