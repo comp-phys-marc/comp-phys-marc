@@ -48,7 +48,7 @@ I have founded two profitable tech companies in the past, [rQadium](https://marc
 
 <!-- [Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=comp-phys-marc&show=reviews,prs_merged&theme=dark) -->
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=comp-phys-marc&theme=dark" alt="GitHub Streak" /></a>
+<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=comp-phys-marc&theme=dark" alt="GitHub Streak" /></a> -->
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=comp-phys-marc" /> -->
 
