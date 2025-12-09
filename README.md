@@ -91,6 +91,13 @@ I have founded two profitable tech companies in the past, [rQadium](https://marc
 </details>
 
 <details>
+<summary>Quantum machine learning</summary>
+<br>
+
+  - [this](https://github.com/PennyLaneAI/pennylane/pull/8749) implementation of a hybrid quantum-classical ML [methodology](https://arxiv.org/pdf/2503.02934)
+</details>
+
+<details>
 <summary>Quantum simulators and emulators</summary>
 <br>
     
