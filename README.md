@@ -46,7 +46,9 @@ This has meant periods focussing on the computer and information science subfiel
 
 I have founded two profitable tech companies in the past, [rQadium](https://marcusedwards.me/rqadium/) and Leadme Inc., building our products myself as a full stack software and hardware engineer.
 
-![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=comp-phys-marc&show=reviews,prs_merged&theme=dark)
+<!-- [Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=comp-phys-marc&show=reviews,prs_merged&theme=dark) -->
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=comp-phys-marc&theme=dark" alt="GitHub Streak" /></a>
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=comp-phys-marc" /> -->
 
