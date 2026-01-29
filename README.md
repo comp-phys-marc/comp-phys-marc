@@ -128,6 +128,14 @@ I have founded two profitable tech companies in the past, [rQadium](https://marc
   - actual quantum processors
 </details>
 
+<details>
+<summary>Custom Music Making Machines</summary>
+
+<br>
+
+  - My [Guitar MIDI Controller](https://github.com/comp-phys-marc/midi-controller-accelerometer-guitar) based on RPi and Flora 
+</details>
+
 👯 I’m looking to collaborate on ...
 
 <details>
