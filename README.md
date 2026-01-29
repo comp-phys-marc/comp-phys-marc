@@ -129,7 +129,7 @@ I have founded two profitable tech companies in the past, [rQadium](https://marc
 </details>
 
 <details>
-<summary>Custom Music Making Machines</summary>
+<summary>Custom music making machines</summary>
 
 <br>
 
