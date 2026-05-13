@@ -92,8 +92,10 @@ I have founded two profitable tech companies in the past, [rQadium](https://marc
 <br>
 
   - [Signed Out Multiplier](https://github.com/PennyLaneAI/pennylane/pull/9458)
-  - [QRAM](https://github.com/PennyLaneAI/pennylane/pull/8670)
-  - [FFFT](https://github.com/PennyLaneAI/pennylane/pull/9354)
+  - [Bucket Brigade QRAM](https://github.com/PennyLaneAI/pennylane/pull/8670)
+  - [Hybrid QRAM](https://github.com/PennyLaneAI/pennylane/pull/8679)
+  - [Select Only QRAM](https://github.com/PennyLaneAI/pennylane/pull/8680)
+  - [Fast Fermionic Fourier Transform](https://github.com/PennyLaneAI/pennylane/pull/9354)
   - [Quantum Automatic Differentiation](https://github.com/PennyLaneAI/pennylane/pull/8640)
 </details>
 
