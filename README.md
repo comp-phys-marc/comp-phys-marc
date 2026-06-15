@@ -57,7 +57,7 @@ I have founded two profitable tech companies in the past, [rQadium](https://marc
 
 🔭 I’m currently working on ...
  
-<details>
+<details open>
 <summary>Quantum programming languages</summary>
 <br>
     
