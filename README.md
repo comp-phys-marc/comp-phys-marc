@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ![Kubernetes](https://img.shields.io/badge/kubernetes-blue?style=flat&logo=kubernetes&logoColor=ffffff)
 ![Rabbit](https://img.shields.io/badge/-rabbitmq-%23FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
-![GitHub Card](https://githubcard.com/comp-phys-marc.svg)
+<!-- ![GitHub Card](https://githubcard.com/comp-phys-marc.svg) -->
 
 I completed a Masters in Quantum Information Science through the [Institute for Quantum Computing](https://uwaterloo.ca/institute-for-quantum-computing/) at the University of Waterloo in 2020. After stints as a quantum software engineer at [Photonic Inc](https://photonic.com/), and a quantum hardware researcher in the [Quantum Science and Technology Lab](https://sites.google.com/view/ubcqtl/home), I am now a software developer at [Xanadu Quantum Technologies](https://www.xanadu.ai/).
 
