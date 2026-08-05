@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 ![Q Sharp](https://img.shields.io/badge/qsharp-purple?style=flat)
 
 ![QisKit](https://img.shields.io/badge/qiskit-black?style=flat&logo=qiskit&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)
 ![PennyLane](https://img.shields.io/badge/pennylane-05B2FF?style=flat)
 ![Jax](https://img.shields.io/badge/jax-6c6c6c?style=flat&logo=jax&logoColor=FF6F00)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-6c6c6c?style=flat&logo=tensorflow&logoColor=FF6F00)
