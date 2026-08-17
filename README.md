@@ -130,7 +130,7 @@ I have founded two profitable tech companies in the past, [rQadium](https://marc
 <br>  
     
   - my [PCB carrier](https://github.com/comp-phys-marc/carrier_PCB) for quantum processors
-  - actual quantum processors
+  - actual [quantum processors](https://meetings-archive.aps.org/smt/2026/mar-g19/7/)
 </details>
 
 <details>
