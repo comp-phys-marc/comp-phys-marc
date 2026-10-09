@@ -138,9 +138,9 @@ I have founded two profitable tech companies in the past, [rQadium](https://marc
 
 <br>
 
-  - My [Guitar MIDI Controller](https://github.com/comp-phys-marc/midi-controller-accelerometer-guitar) based on RPi and Flora 
+  - My [Guitar MIDI Controller](https://github.com/comp-phys-marc/midi-controller-accelerometer-guitar) based on RPi and Flora
+  - Custom programmatic [music](https://github.com/comp-phys-marc/Strudel) composition with Strudel
 </details>
-  - Custom programmatic music composition with [Strudel](https://github.com/comp-phys-marc/Strudel)
 
 👯 I’m looking to collaborate on ...
 
